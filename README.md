@@ -16,9 +16,8 @@ This project showcases how NLP and AI can automate content understanding, langua
 ## 🌐 Live Demo (Hosted on Vercel)
 
 🚀 **Access the project live here:**  
-👉 [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+👉 https://v0-ai-speech-assistant-seven.vercel.app/
 
-_(Replace this link with your actual Vercel deployment URL)_
 
 ---
 
