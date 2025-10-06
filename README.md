@@ -23,15 +23,15 @@ This project showcases how NLP and AI can automate content understanding, langua
 
 ## 🚀 Features
 
-- 🎤 **Live Speech Recognition** — Convert real-time speech into editable text using the Web Speech API.  
-- 📄 **Document Text Extraction** — Upload PDF or image files and extract text with **Tesseract.js** and **pdf.js**.  
-- ✍️ **Text Enhancement** — Automatically improve grammar, vocabulary, and sentence structure.  
-- 🔍 **Plagiarism Detection** — Check text originality and highlight duplicate or referenced content.  
-- 🧠 **AI Problem Solver** — Get intelligent insights and suggested solutions based on context.  
-- 🏷️ **Title Generator** — Automatically generate creative and research-oriented titles.  
-- 🌐 **Multi-language Support** — Supports English, Hindi, Spanish, French, and more.  
-- 💾 **Export Options** — Save outputs as PDF, Word, or Text files.  
-- 💻 **Responsive Design** — Fully functional across all screen sizes and browsers.  
+- **Live Speech Recognition** — Convert real-time speech into editable text using the Web Speech API.  
+- **Document Text Extraction** — Upload PDF or image files and extract text with **Tesseract.js** and **pdf.js**.  
+- **Text Enhancement** — Automatically improve grammar, vocabulary, and sentence structure.  
+- **Plagiarism Detection** — Check text originality and highlight duplicate or referenced content.  
+- **AI Problem Solver** — Get intelligent insights and suggested solutions based on context.  
+- **Title Generator** — Automatically generate creative and research-oriented titles.  
+- **Multi-language Support** — Supports English, Hindi, Spanish, French, and more.  
+- **Export Options** — Save outputs as PDF, Word, or Text files.  
+- **Responsive Design** — Fully functional across all screen sizes and browsers.  
 
 ---
 
