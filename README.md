@@ -13,10 +13,10 @@ This project showcases how NLP and AI can automate content understanding, langua
 
 ---
 
-## 🌐 Live Demo (Hosted on Vercel)
+##  Live Demo (Hosted on Vercel)
 
 **Access the project live here:**  
-👉 https://v0-ai-speech-assistant-seven.vercel.app/
+ https://v0-ai-speech-assistant-seven.vercel.app/
 
 
 ---
@@ -35,7 +35,7 @@ This project showcases how NLP and AI can automate content understanding, langua
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Category | Technologies Used |
 |-----------|------------------|
@@ -48,7 +48,7 @@ This project showcases how NLP and AI can automate content understanding, langua
 
 ---
 
-## 🧠 System Workflow
+##  System Workflow
 
 1. **Input Selection:** Choose between Live Speech, Document Upload, or Text Input.  
 2. **Text Acquisition:**  
